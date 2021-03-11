@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Deletions to Make C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Steps to Make Piles Equal Height", "Min Steps to Make Piles Equal Height\Min Steps to Make Piles Equal Height.csproj", "{20C348E1-7D72-4437-A869-8EBD943C1C33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Good Nodes in Binary Tree", "Count Good Nodes in Binary Tree\Count Good Nodes in Binary Tree.csproj", "{6B6CFA27-0A1E-402E-B17F-F2DB62F24CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Length of a Concatenated String with Unique Characters", "Maximum Length of a Concatenated String with Unique Characters\Maximum Length of a Concatenated String with Unique Characters.csproj", "{7E938A01-62D7-44EE-895E-68371F99B02A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{20C348E1-7D72-4437-A869-8EBD943C1C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C348E1-7D72-4437-A869-8EBD943C1C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20C348E1-7D72-4437-A869-8EBD943C1C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6CFA27-0A1E-402E-B17F-F2DB62F24CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6CFA27-0A1E-402E-B17F-F2DB62F24CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6CFA27-0A1E-402E-B17F-F2DB62F24CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6CFA27-0A1E-402E-B17F-F2DB62F24CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E938A01-62D7-44EE-895E-68371F99B02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E938A01-62D7-44EE-895E-68371F99B02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E938A01-62D7-44EE-895E-68371F99B02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E938A01-62D7-44EE-895E-68371F99B02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
